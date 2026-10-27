@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salonderiz201431-cpu.github.io/jsg-site/sitemap.xml
